@@ -1,0 +1,9 @@
+{
+  "deploy": {
+    "rpms": [
+      "ERICebsmodel_CXP9032456",
+      "ERICcountermanagementservicemodel_CXP9038413",
+      "ERICebstopologyservicemodel_CXP9033326"
+    ]
+  }
+}
